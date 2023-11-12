@@ -43,7 +43,7 @@ msgstr ""
 #. The color "orange"
 #: ../client/application/ui/ui_skin.cpp:66
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #. The color "white"
 #: ../client/application/ui/ui_skin.cpp:68
